@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Limpar">LIMPAR</string>
+    <string name="Calcular">CALCULAR</string>
+    <string name="txt_nota_at">Digite a sua nota de trabalho</string>
+    <string name="txt_nota_p1">Digite a sua nota da P1</string>
+    <string name="txt_nota_p2">Digite a sua nota da P2</string>
+</resources>
